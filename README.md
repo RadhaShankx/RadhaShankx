@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RadhaShankar
-- 👀 I’m interested in learning how build, deploy and lauch Java apps through Heroku
+- 👀 I’m interested in learning how to build, deploy and lauch Java apps through Heroku
 - 🌱 I’m currently learning how to build Java apps through Heroku
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me radha.shankar@salesforce.com
